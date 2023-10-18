@@ -47,3 +47,8 @@ This case study involved the analysis of Citi Bike trip data to discover unexpec
 [Kindly check out the story of different visualizations on Tableau Public.](https://public.tableau.com/app/profile/neha.purohit7799/viz/CityBikeManagementAnalysis_16975710998140/FinalStory)
 
 ## Preview
+![Visualization Example](1st_story.png)
+![Visualization Example](2nd_story.png)
+![Visualization Example](3rd_story.png)
+![Visualization Example](4th_story.png)
+
